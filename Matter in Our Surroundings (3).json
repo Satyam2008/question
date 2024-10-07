@@ -1,0 +1,20 @@
+{
+    "data": [
+        {
+            "que": "What is the capital of France?",
+            "ans": "Paris"
+        },
+        {
+            "que": "Who wrote 'Romeo and Juliet'?",
+            "ans": "William Shakespeare"
+        },
+        {
+            "que": "What is the chemical symbol for water?",
+            "ans": "H2O"
+        },
+        {
+            "que": "Which planet is known as the Red Planet?",
+            "ans": "Mars"
+        }
+    ]
+}
