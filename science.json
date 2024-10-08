@@ -6,7 +6,7 @@
             "ncertbook": "https://example.com/matter-in-our-surroundings/book",
             "worksheet": "https://example.com/matter-in-our-surroundings/worksheet",
             "questions": [
-                {"qsn": "https://example.com/matter-in-our-surroundings/question1"},
+                {"qsn": "https://raw.githubusercontent.com/Satyam2008/question/refs/heads/main/Matter%20in%20Our%20Surroundings%20(3).json"},
                 {"qsn": "https://example.com/matter-in-our-surroundings/question2"},
                 {"qsn": "https://example.com/matter-in-our-surroundings/question3"},
                 {"qsn": "https://example.com/matter-in-our-surroundings/question3"}
