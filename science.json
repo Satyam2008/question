@@ -12,7 +12,7 @@
                 {"qsn": "https://example.com/matter-in-our-surroundings/question3"}
             ],
             "quiz": [
-                {"qz": "https://example.com/matter-in-our-surroundings/quiz1"},
+                {"qz": "https://raw.githubusercontent.com/Satyam2008/question/refs/heads/main/mcq.json"},
                 {"qz": "https://example.com/matter-in-our-surroundings/quiz2"},
                  {"qz": "https://example.com/matter-in-our-surroundings/quiz1"},
                 {"qz": "https://example.com/matter-in-our-surroundings/quiz2"}
