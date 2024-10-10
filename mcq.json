@@ -1,0 +1,84 @@
+{
+  "data": [
+    {
+      "question": "What is the capital of France?",
+      "op_1": "Berlin",
+      "op_2": "Madrid",
+      "op_3": "Paris",
+      "op_4": "Rome",
+      "ans": "Paris"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "op_1": "Earth",
+      "op_2": "Mars",
+      "op_3": "Jupiter",
+      "op_4": "Venus",
+      "ans": "Mars"
+    },
+    {
+      "question": "Who wrote 'Hamlet'?",
+      "op_1": "Leo Tolstoy",
+      "op_2": "Mark Twain",
+      "op_3": "William Shakespeare",
+      "op_4": "Charles Dickens",
+      "ans": "William Shakespeare"
+    },
+    {
+      "question": "Which element has the chemical symbol 'O'?",
+      "op_1": "Oxygen",
+      "op_2": "Osmium",
+      "op_3": "Oganesson",
+      "op_4": "Oxalate",
+      "ans": "Oxygen"
+    },
+    {
+      "question": "What is the largest mammal in the world?",
+      "op_1": "Elephant",
+      "op_2": "Blue Whale",
+      "op_3": "Giraffe",
+      "op_4": "Shark",
+      "ans": "Blue Whale"
+    },
+    {
+      "question": "Which language is primarily spoken in Brazil?",
+      "op_1": "Spanish",
+      "op_2": "English",
+      "op_3": "Portuguese",
+      "op_4": "French",
+      "ans": "Portuguese"
+    },
+    {
+      "question": "What is the hardest natural substance on Earth?",
+      "op_1": "Gold",
+      "op_2": "Iron",
+      "op_3": "Diamond",
+      "op_4": "Graphite",
+      "ans": "Diamond"
+    },
+    {
+      "question": "Which organ is responsible for pumping blood throughout the body?",
+      "op_1": "Brain",
+      "op_2": "Lungs",
+      "op_3": "Heart",
+      "op_4": "Liver",
+      "ans": "Heart"
+    },
+    {
+      "question": "What is the boiling point of water at sea level?",
+      "op_1": "100°C",
+      "op_2": "0°C",
+      "op_3": "50°C",
+      "op_4": "200°C",
+      "ans": "100°C"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "op_1": "Vincent van Gogh",
+      "op_2": "Leonardo da Vinci",
+      "op_3": "Pablo Picasso",
+      "op_4": "Claude Monet",
+      "ans": "Leonardo da Vinci"
+    }
+  ]
+}
