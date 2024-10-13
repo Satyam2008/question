@@ -3,7 +3,7 @@
         {
             "chapter": "Matter in Our Surroundings",
             "ncertsol": "https://example.com/matter-in-our-surroundings/solutions",
-            "ncertbook": "https://example.com/matter-in-our-surroundings/book",
+            "ncertbook": "https://ncert.nic.in/textbook/pdf/iesc101.pdf",
             "worksheet": "https://example.com/matter-in-our-surroundings/worksheet",
             "questions": [
                 {"qsn": "https://raw.githubusercontent.com/Satyam2008/question/refs/heads/main/Matter%20in%20Our%20Surroundings%20(3).json"},
