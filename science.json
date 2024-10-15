@@ -8,14 +8,16 @@
             "questions": [
                 {"qsn": "https://raw.githubusercontent.com/Satyam2008/question/refs/heads/main/Matter%20in%20Our%20Surroundings%20(3).json"},
                 {"qsn": "https://example.com/matter-in-our-surroundings/question2"},
-                {"qsn": "https://example.com/matter-in-our-surroundings/question3"},
                 {"qsn": "https://example.com/matter-in-our-surroundings/question3"}
             ],
             "quiz": [
                 {"qz": "https://raw.githubusercontent.com/Satyam2008/question/refs/heads/main/mcq.json"},
                 {"qz": "https://example.com/matter-in-our-surroundings/quiz2"},
-                 {"qz": "https://example.com/matter-in-our-surroundings/quiz1"},
-                {"qz": "https://example.com/matter-in-our-surroundings/quiz2"}
+                {"qz": "https://example.com/matter-in-our-surroundings/quiz1"}
+            ],
+            "questionsPDF": [
+                {"qpdf": "https://example.com/matter-in-our-surroundings/question-pdf1"},
+                {"qpdf": "https://example.com/matter-in-our-surroundings/question-pdf2"}
             ]
         },
         {
@@ -31,6 +33,10 @@
             "quiz": [
                 {"qz": "https://example.com/is-matter-around-us-pure/quiz1"},
                 {"qz": "https://example.com/is-matter-around-us-pure/quiz2"}
+            ],
+            "questionsPDF": [
+                {"qpdf": "https://example.com/is-matter-around-us-pure/question-pdf1"},
+                {"qpdf": "https://example.com/is-matter-around-us-pure/question-pdf2"}
             ]
         },
         {
@@ -46,6 +52,10 @@
             "quiz": [
                 {"qz": "https://example.com/atoms-and-molecules/quiz1"},
                 {"qz": "https://example.com/atoms-and-molecules/quiz2"}
+            ],
+            "questionsPDF": [
+                {"qpdf": "https://example.com/atoms-and-molecules/question-pdf1"},
+                {"qpdf": "https://example.com/atoms-and-molecules/question-pdf2"}
             ]
         },
         {
@@ -61,6 +71,10 @@
             "quiz": [
                 {"qz": "https://example.com/structure-of-the-atom/quiz1"},
                 {"qz": "https://example.com/structure-of-the-atom/quiz2"}
+            ],
+            "questionsPDF": [
+                {"qpdf": "https://example.com/structure-of-the-atom/question-pdf1"},
+                {"qpdf": "https://example.com/structure-of-the-atom/question-pdf2"}
             ]
         },
         {
@@ -76,6 +90,10 @@
             "quiz": [
                 {"qz": "https://example.com/fundamental-unit-of-life/quiz1"},
                 {"qz": "https://example.com/fundamental-unit-of-life/quiz2"}
+            ],
+            "questionsPDF": [
+                {"qpdf": "https://example.com/fundamental-unit-of-life/question-pdf1"},
+                {"qpdf": "https://example.com/fundamental-unit-of-life/question-pdf2"}
             ]
         },
         {
@@ -91,6 +109,10 @@
             "quiz": [
                 {"qz": "https://example.com/tissues/quiz1"},
                 {"qz": "https://example.com/tissues/quiz2"}
+            ],
+            "questionsPDF": [
+                {"qpdf": "https://example.com/tissues/question-pdf1"},
+                {"qpdf": "https://example.com/tissues/question-pdf2"}
             ]
         },
         {
@@ -106,6 +128,10 @@
             "quiz": [
                 {"qz": "https://example.com/diversity-in-living-organisms/quiz1"},
                 {"qz": "https://example.com/diversity-in-living-organisms/quiz2"}
+            ],
+            "questionsPDF": [
+                {"qpdf": "https://example.com/diversity-in-living-organisms/question-pdf1"},
+                {"qpdf": "https://example.com/diversity-in-living-organisms/question-pdf2"}
             ]
         },
         {
@@ -121,6 +147,10 @@
             "quiz": [
                 {"qz": "https://example.com/motion/quiz1"},
                 {"qz": "https://example.com/motion/quiz2"}
+            ],
+            "questionsPDF": [
+                {"qpdf": "https://example.com/motion/question-pdf1"},
+                {"qpdf": "https://example.com/motion/question-pdf2"}
             ]
         },
         {
@@ -136,6 +166,10 @@
             "quiz": [
                 {"qz": "https://example.com/force-and-laws-of-motion/quiz1"},
                 {"qz": "https://example.com/force-and-laws-of-motion/quiz2"}
+            ],
+            "questionsPDF": [
+                {"qpdf": "https://example.com/force-and-laws-of-motion/question-pdf1"},
+                {"qpdf": "https://example.com/force-and-laws-of-motion/question-pdf2"}
             ]
         },
         {
@@ -151,6 +185,10 @@
             "quiz": [
                 {"qz": "https://example.com/gravitation/quiz1"},
                 {"qz": "https://example.com/gravitation/quiz2"}
+            ],
+            "questionsPDF": [
+                {"qpdf": "https://example.com/gravitation/question-pdf1"},
+                {"qpdf": "https://example.com/gravitation/question-pdf2"}
             ]
         }
     ]
