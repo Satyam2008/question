@@ -3,6 +3,7 @@
         {
             "chapter": "Matter in Our Surroundings",
             "ncertsol": "https://example.com/matter-in-our-surroundings/solutions",
+            "notes":"url",
             "ncertbook": "https://ncert.nic.in/textbook/pdf/iesc101.pdf",
             "worksheet": "https://example.com/matter-in-our-surroundings/worksheet",
             "questions": [
@@ -22,6 +23,7 @@
         },
         {
             "chapter": "Is Matter Around Us Pure?",
+            "notes":"url",
             "ncertsol": "https://example.com/is-matter-around-us-pure/solutions",
             "ncertbook": "https://example.com/is-matter-around-us-pure/book",
             "worksheet": "https://example.com/is-matter-around-us-pure/worksheet",
@@ -41,6 +43,7 @@
         },
         {
             "chapter": "Atoms and Molecules",
+            "notes":"url",
             "ncertsol": "https://example.com/atoms-and-molecules/solutions",
             "ncertbook": "https://example.com/atoms-and-molecules/book",
             "worksheet": "https://example.com/atoms-and-molecules/worksheet",
@@ -60,6 +63,7 @@
         },
         {
             "chapter": "Structure of the Atom",
+            "notes":"url",
             "ncertsol": "https://example.com/structure-of-the-atom/solutions",
             "ncertbook": "https://example.com/structure-of-the-atom/book",
             "worksheet": "https://example.com/structure-of-the-atom/worksheet",
@@ -79,6 +83,7 @@
         },
         {
             "chapter": "The Fundamental Unit of Life",
+            "notes":"url",
             "ncertsol": "https://example.com/fundamental-unit-of-life/solutions",
             "ncertbook": "https://example.com/fundamental-unit-of-life/book",
             "worksheet": "https://example.com/fundamental-unit-of-life/worksheet",
@@ -98,6 +103,7 @@
         },
         {
             "chapter": "Tissues",
+            "notes":"url",
             "ncertsol": "https://example.com/tissues/solutions",
             "ncertbook": "https://example.com/tissues/book",
             "worksheet": "https://example.com/tissues/worksheet",
@@ -117,6 +123,7 @@
         },
         {
             "chapter": "Diversity in Living Organisms",
+            "notes":"url",
             "ncertsol": "https://example.com/diversity-in-living-organisms/solutions",
             "ncertbook": "https://example.com/diversity-in-living-organisms/book",
             "worksheet": "https://example.com/diversity-in-living-organisms/worksheet",
@@ -136,6 +143,7 @@
         },
         {
             "chapter": "Motion",
+            "notes":"url",
             "ncertsol": "https://example.com/motion/solutions",
             "ncertbook": "https://example.com/motion/book",
             "worksheet": "https://example.com/motion/worksheet",
@@ -155,6 +163,7 @@
         },
         {
             "chapter": "Force and Laws of Motion",
+            "notes":"url",
             "ncertsol": "https://example.com/force-and-laws-of-motion/solutions",
             "ncertbook": "https://example.com/force-and-laws-of-motion/book",
             "worksheet": "https://example.com/force-and-laws-of-motion/worksheet",
@@ -174,6 +183,7 @@
         },
         {
             "chapter": "Gravitation",
+            "notes":"url",
             "ncertsol": "https://example.com/gravitation/solutions",
             "ncertbook": "https://example.com/gravitation/book",
             "worksheet": "https://example.com/gravitation/worksheet",
