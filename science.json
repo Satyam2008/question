@@ -5,6 +5,7 @@
             "ncertsol": "https://example.com/matter-in-our-surroundings/solutions",
             "notes":"url",
             "ncertbook": "https://drive.google.com/file/d/1t1M5g_jUHjZmqHAamTUpXvkmgwSVqNzD/view?usp=drivesdk",
+            "Hindi_book":"url",
             "worksheet": "https://m.youtube.com/",
             "questions": [
                 {"qsn": "https://raw.githubusercontent.com/Satyam2008/question/refs/heads/main/Matter%20in%20Our%20Surroundings%20(3).json"},
@@ -26,6 +27,7 @@
             "notes":"url",
             "ncertsol": "https://example.com/is-matter-around-us-pure/solutions",
             "ncertbook": "https://example.com/is-matter-around-us-pure/book",
+               "Hindi_book":"url",
             "worksheet": "https://example.com/is-matter-around-us-pure/worksheet",
             "questions": [
                 {"qsn": "https://example.com/is-matter-around-us-pure/question1"},
@@ -46,6 +48,7 @@
             "notes":"url",
             "ncertsol": "https://example.com/atoms-and-molecules/solutions",
             "ncertbook": "https://example.com/atoms-and-molecules/book",
+               "Hindi_book":"url",
             "worksheet": "https://example.com/atoms-and-molecules/worksheet",
             "questions": [
                 {"qsn": "https://example.com/atoms-and-molecules/question1"},
@@ -66,6 +69,7 @@
             "notes":"url",
             "ncertsol": "https://example.com/structure-of-the-atom/solutions",
             "ncertbook": "https://example.com/structure-of-the-atom/book",
+               "Hindi_book":"url",
             "worksheet": "https://example.com/structure-of-the-atom/worksheet",
             "questions": [
                 {"qsn": "https://example.com/structure-of-the-atom/question1"},
@@ -86,6 +90,7 @@
             "notes":"url",
             "ncertsol": "https://example.com/fundamental-unit-of-life/solutions",
             "ncertbook": "https://example.com/fundamental-unit-of-life/book",
+               "Hindi_book":"url",
             "worksheet": "https://example.com/fundamental-unit-of-life/worksheet",
             "questions": [
                 {"qsn": "https://example.com/fundamental-unit-of-life/question1"},
@@ -106,6 +111,7 @@
             "notes":"url",
             "ncertsol": "https://example.com/tissues/solutions",
             "ncertbook": "https://example.com/tissues/book",
+               "Hindi_book":"url",
             "worksheet": "https://example.com/tissues/worksheet",
             "questions": [
                 {"qsn": "https://example.com/tissues/question1"},
@@ -126,6 +132,7 @@
             "notes":"url",
             "ncertsol": "https://example.com/diversity-in-living-organisms/solutions",
             "ncertbook": "https://example.com/diversity-in-living-organisms/book",
+               "Hindi_book":"url",
             "worksheet": "https://example.com/diversity-in-living-organisms/worksheet",
             "questions": [
                 {"qsn": "https://example.com/diversity-in-living-organisms/question1"},
@@ -146,6 +153,7 @@
             "notes":"url",
             "ncertsol": "https://example.com/motion/solutions",
             "ncertbook": "https://example.com/motion/book",
+               "Hindi_book":"url",
             "worksheet": "https://example.com/motion/worksheet",
             "questions": [
                 {"qsn": "https://example.com/motion/question1"},
@@ -166,6 +174,7 @@
             "notes":"url",
             "ncertsol": "https://example.com/force-and-laws-of-motion/solutions",
             "ncertbook": "https://example.com/force-and-laws-of-motion/book",
+               "Hindi_book":"url",
             "worksheet": "https://example.com/force-and-laws-of-motion/worksheet",
             "questions": [
                 {"qsn": "https://example.com/force-and-laws-of-motion/question1"},
@@ -187,6 +196,7 @@
             "ncertsol": "https://example.com/gravitation/solutions",
             "ncertbook": "https://example.com/gravitation/book",
             "worksheet": "https://example.com/gravitation/worksheet",
+               "Hindi_book":"url",
             "questions": [
                 {"qsn": "https://example.com/gravitation/question1"},
                 {"qsn": "https://example.com/gravitation/question2"},
